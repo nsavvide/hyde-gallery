@@ -115,15 +115,17 @@ def find_preview_image(theme_name):
         ]
 
         for pattern in image_patterns:
-            images = list(theme_path.glob(pattern))
+            # Sorted: Path.glob yields directory order, which differs per
+            # filesystem, so an unsorted [0] picks a different preview per machine
+            images = sorted(theme_path.glob(pattern))
             if images:
                 # Return the first image found
                 return str(images[0])
 
     # If no match found, let's try a more flexible approach by searching all directories
-    all_dirs = [
+    all_dirs = sorted(
         d for d in Path(".").iterdir() if d.is_dir() and not d.name.startswith(".")
-    ]
+    )
     theme_name_lower = theme_name.lower()
 
     for directory in all_dirs:
@@ -134,7 +136,7 @@ def find_preview_image(theme_name):
         ):
             # Found a potential match, look for images
             for pattern in ["preview.*", "*.png", "*.jpg", "*.jpeg"]:
-                images = list(directory.glob(pattern))
+                images = sorted(directory.glob(pattern))
                 if images:
                     return str(images[0])
 
