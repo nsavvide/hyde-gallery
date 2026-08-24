@@ -21,7 +21,6 @@
 | [![MI6](https://placehold.co/180x50/041011/2DC9DC?text=MI6&font=Oswald)](#mi6) | MI6 variant of the Agency collection: dark teal, cyan accent, typographic wallpaper. | [CapGuizera](https://github.com/CapGuizera) |
 | [![Soulsborne](https://placehold.co/180x50/0D0D0D/E0701E?text=Soulsborne&font=Oswald)](#soulsborne) | HyDE theme inspired by the Soulsborne series. | [elritardato](https://github.com/elritardato) |
 | [![AncientAliens](https://placehold.co/180x50/09101C/AAD5F0?text=AncientAliens&font=Oswald)](#ancientaliens) | A futuristic alien-like theme. Designed to invoke the feelings of watching the History channel at three in the morning. | [dim-ghub](https://github.com/dim-ghub) |
-| [![Vesper](https://placehold.co/180x50/101010/99FFE4?text=Vesper&font=Oswald)](#vesper) | Near-black Vesper theme with mint, peach, and coral accents. | [KitsuneKode](https://github.com/KitsuneKode) |
 | [![Greenify](https://placehold.co/180x50/0e120f/295233?text=Greenify&font=Oswald)](#greenify) | Dark Green based theme for Hyde | [mahaveergurjar](https://github.com/mahaveergurjar) |
 | [![Another World](https://placehold.co/180x50/11111B/6AA9C9?text=Another+World&font=Oswald)](#another-world) | Step beyond the horizon, where reality fades and imagination reigns supreme. | [cyb3rgh0u1](https://github.com/cyb3rgh0u1) |
 | [![Hack the Box](https://placehold.co/180x50/061234/50AA09?text=Hack+the+Box&font=Oswald)](#hack-the-box) | Hacker based theme | [T-Crypt](https://github.com/T-Crypt) |
@@ -51,6 +50,7 @@
 | [![Eternal Arctic](https://placehold.co/180x50/2E3440/88C0D0?text=Eternal+Arctic&font=Oswald)](#eternal-arctic) | Serene Nord-inspired theme having frosty aesthetic blues | [rishav12s](https://github.com/rishav12s) |
 | [![Solarized Dark](https://placehold.co/180x50/044655/259E9C?text=Solarized+Dark&font=Oswald)](#solarized-dark) | Solarized Dark based theme for HyDE | [rishav12s](https://github.com/rishav12s) |
 | [![Gruvbox Retro](https://placehold.co/180x50/353842/ADAE89?text=Gruvbox+Retro&font=Oswald)](#gruvbox-retro) | Official Theme | [prasanthrangan](https://github.com/prasanthrangan) |
+| [![Drawbridge](https://placehold.co/180x50/353842/ADAE89?text=Drawbridge&font=Oswald)](#drawbridge) | Keep on keeping on! | [aasaaDev](https://github.com/aasaaDev) |
 | [![Oregairu](https://placehold.co/180x50/2B3A67/A7C7E7?text=Oregairu&font=Oswald)](#oregairu) | HyDE theme inspired by Oregairu | [elritardato](https://github.com/elritardato) |
 | [![AbyssGreen](https://placehold.co/180x50/373C3F/83B38E?text=AbyssGreen&font=Oswald)](#abyssgreen) | AbyssGreen is a theme based on the Everforst color scheme | [Itz-Abhishek-Tiwari](https://github.com/Itz-Abhishek-Tiwari) |
 | [![BlueSky](https://placehold.co/180x50/294052/AACBF0?text=BlueSky&font=Oswald)](#bluesky) | A serene theme inspired by bright cloudy skies | [richen604](https://github.com/richen604) |
@@ -423,8 +423,19 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 
 ---
 
+<a id="drawbridge"></a>
+### 25. Drawbridge
+
+**By:** [aasaaDev](https://github.com/aasaaDev)
+
+**Description:** Keep on keeping on!
+
+[![Drawbridge Preview](Drawbridge/Drawbridge1.png)](https://github.com/aasaaDev/Drawbridge) <a href="#theme-gallery" title="Back to top"><img src="https://img.shields.io/badge/↑-Back_to_Top-ADAE89?style=flat&labelColor=353842&color=353842" alt="Back to Top" style="vertical-align: middle;"></a>
+
+---
+
 <a id="edge-runner"></a>
-### 25. Edge Runner
+### 26. Edge Runner
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
@@ -435,7 +446,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="electra"></a>
-### 26. Electra
+### 27. Electra
 
 **By:** [XBEAST1](https://github.com/XBEAST1)
 
@@ -446,7 +457,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="eternal-arctic"></a>
-### 27. Eternal Arctic
+### 28. Eternal Arctic
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -457,7 +468,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="ever-blushing"></a>
-### 28. Ever Blushing
+### 29. Ever Blushing
 
 **By:** [rishav12s](https://github.com/rishav12s)
 
@@ -468,7 +479,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="fbi"></a>
-### 29. FBI
+### 30. FBI
 
 **By:** [CapGuizera](https://github.com/CapGuizera)
 
@@ -479,7 +490,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="frosted-glass"></a>
-### 30. Frosted Glass
+### 31. Frosted Glass
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
@@ -490,7 +501,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="graphite-mono"></a>
-### 31. Graphite Mono
+### 32. Graphite Mono
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
@@ -501,7 +512,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="green-lush"></a>
-### 32. Green Lush
+### 33. Green Lush
 
 **By:** [abenezerw](https://github.com/abenezerw)
 
@@ -512,7 +523,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="greenify"></a>
-### 33. Greenify
+### 34. Greenify
 
 **By:** [mahaveergurjar](https://github.com/mahaveergurjar)
 
@@ -523,7 +534,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="grukai"></a>
-### 34. Grukai
+### 35. Grukai
 
 **By:** [amit-0i](https://github.com/amit-0i)
 
@@ -534,7 +545,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="gruvbox-retro"></a>
-### 35. Gruvbox Retro
+### 36. Gruvbox Retro
 
 **By:** [prasanthrangan](https://github.com/prasanthrangan)
 
@@ -545,7 +556,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="hack-the-box"></a>
-### 36. Hack the Box
+### 37. Hack the Box
 
 **By:** [T-Crypt](https://github.com/T-Crypt)
 
@@ -556,7 +567,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="ice-age"></a>
-### 37. Ice Age
+### 38. Ice Age
 
 **By:** [saber-88](https://github.com/saber-88)
 
@@ -567,7 +578,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="joker"></a>
-### 38. Joker
+### 39. Joker
 
 **By:** [saber-88](https://github.com/saber-88)
 
@@ -578,7 +589,7 @@ See how to [contribute](CONTRIBUTING.md) to the gallery.
 ---
 
 <a id="limefrenzy"></a>
-### 39. LimeFrenzy
+### 40. LimeFrenzy
 
 **By:** [xaicat](https://github.com/xaicat)
 

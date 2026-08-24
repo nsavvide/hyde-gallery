@@ -680,13 +680,13 @@
     ]
   },
   {
-    "THEME": "Vesper",
-    "LINK": "https://github.com/KitsuneKode/vesper-hyde-theme",
-    "OWNER": "https://github.com/KitsuneKode",
-    "DESCRIPTION": "Near-black Vesper theme with mint, peach, and coral accents.",
+    "THEME": "Drawbridge",
+    "LINK": "https://github.com/aasaaDev/Drawbridge",
+    "OWNER": "https://github.com/aasaaDev",
+    "DESCRIPTION": "Keep on keeping on!",
     "COLORSCHEME": [
-      "#101010",
-      "#99FFE4"
+      "#353842",
+      "#ADAE89"
     ]
   },
   {
